@@ -2,7 +2,7 @@
 
 This Project analyzes the data of AtliQ Hardwares, a hardware manufacturing company that sells products such as PCs, Keyboard, Mouse, Printers across different Countries.
 
-AtliQ has its primary customer segments as Brick & Motor stores and E-Commerce businesses.
+AtliQ has its primary customer as Brick & Motor stores and E-Commerce businesses.
 
 AtliQ operates through distinct sales channels as Retailers, Direct Sales and Distributors.
 
