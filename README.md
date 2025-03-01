@@ -6,7 +6,7 @@ AtliQ has its primary customer as Brick & Motor stores and E-Commerce businesses
 
 AtliQ operates through distinct sales channels as Retailers, Direct Sales and Distributors.
 
-🎯Project Objective
+Project Objective
 -------------------------------------
 - Analyzing Market Trends across multiple region and products.
 
