@@ -28,21 +28,21 @@ Data & Technical Skills
 
 - Conditional Formatting is used to higlight metrics with color scales.
 
-Sales And Finance Analytics
+Business Requirements : Sales And Finance Analytics
 -------------------------------------------------
-- Market Performance Vs Target Report.
+- Identify Market Performance Vs Target Report.
   
 - Profit & Loss (P & L) Analysis by Fiscal Years.
   
-- Top 10 Customers based on Net Sales in 2021 with Amazon as Top customer with 82.1M USD in Net Sales.
+- Analyzed & Sorted Top 10 Customers based on Net Sales in 2021 with Amazon as Top customer with 82.1M USD in Net Sales.
 
-- Top & Bottom 5 produts to improve Sales Strategy.
+- Revealed Top & Bottom 5 produts to improve Sales Strategy.
 
 - Profit & Loss by Fiscal Year on a monthly basis reveals Sales Peak Season.
   
 - Top 5 Countries by Sales in 2021 reveals Countries with high Growth Potential.
 
-- Top 10 Products based on Net Sales in 2021.
+- Identify Top 10 Products based on Net Sales in 2021.
 
  Project Summary
   -----------------------------------------------------------
